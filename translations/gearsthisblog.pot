@@ -1,0 +1,147 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2009 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/gears-this-blog\n"
+"POT-Creation-Date: 2009-12-30 03:00+0000\n"
+"PO-Revision-Date: 2009-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gearsthisblog.php:34 gearsthisblog.php:35 gearsthisblog.php:39
+#: inc/admin.php:83
+msgid "Gears This Blog"
+msgstr ""
+
+#: inc/admin.php:23
+msgid ""
+"Save this blog's content on your computer with Google Gears' help.\r\n"
+"Simply download and install it and click Save. \r\n"
+"You will be able to see the blog when being offline !"
+msgstr ""
+
+#: inc/admin.php:26
+msgid "Stock this blog content on your computer for offline navigation."
+msgstr ""
+
+#: inc/admin.php:75
+#, php-format
+msgid ""
+"To configure the widget please go to the <a href=\"%s\" >settings page</a>."
+msgstr ""
+
+#: inc/admin.php:143
+msgid "Gears This Blog Configuration"
+msgstr ""
+
+#: inc/admin.php:148
+msgid "Title"
+msgstr ""
+
+#: inc/admin.php:148
+msgid "Widget title"
+msgstr ""
+
+#: inc/admin.php:150
+msgid "Message"
+msgstr ""
+
+#: inc/admin.php:150
+msgid "Message that will be displayed to the user"
+msgstr ""
+
+#: inc/admin.php:152
+msgid "Authorization message"
+msgstr ""
+
+#: inc/admin.php:152
+msgid "Message that will be displayed for Gears authorization"
+msgstr ""
+
+#: inc/admin.php:154
+msgid "Icon"
+msgstr ""
+
+#: inc/admin.php:154
+msgid "Authorization message icon"
+msgstr ""
+
+#: inc/admin.php:158
+msgid "Auto add CSS files ?"
+msgstr ""
+
+#: inc/admin.php:159
+msgid "Auto add JS files ?"
+msgstr ""
+
+#: inc/admin.php:161
+msgid "Auto add images files ?"
+msgstr ""
+
+#: inc/admin.php:162
+msgid "Add feed URLs ?"
+msgstr ""
+
+#: inc/admin.php:164
+msgid "Add categories ?"
+msgstr ""
+
+#: inc/admin.php:165
+msgid "Add tags ?"
+msgstr ""
+
+#: inc/admin.php:167
+msgid "Files"
+msgstr ""
+
+#: inc/admin.php:167
+msgid "Files or url you want to add to the manifest file / one by line"
+msgstr ""
+
+#: inc/admin.php:171
+msgid "Number of posts to add "
+msgstr ""
+
+#: inc/admin.php:171
+msgid "latest posts (-1 will add all posts)"
+msgstr ""
+
+#: inc/admin.php:175
+msgid "Save changes"
+msgstr ""
+
+#: inc/admin.php:181
+msgid "Reset settings"
+msgstr ""
+
+#: inc/admin.php:181
+msgid "/!\\ Will also reset manifest file /!\\"
+msgstr ""
+
+#: inc/admin.php:185
+msgid "Manifest Content"
+msgstr ""
+
+#: inc/admin.php:185
+msgid "Content of the manifest file used to list files."
+msgstr ""
+
+#: inc/admin.php:188
+msgid "permissions"
+msgstr ""
+
+#: inc/admin.php:189
+msgid "chmod"
+msgstr ""
+
+#: inc/page.php:61
+msgid "<a href=\"http://www.yriase.fr/\">Gears This Blog</a>"
+msgstr ""

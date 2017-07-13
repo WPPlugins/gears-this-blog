@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gearsthisblog\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/gears-this-blog\n"
+"POT-Creation-Date: 2009-12-30 03:00+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: seiyar81 <postmaster@yriase.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: gearsthisblog.php:34
+#: gearsthisblog.php:35
+#: gearsthisblog.php:39
+#: inc/admin.php:83
+msgid "Gears This Blog"
+msgstr "Gears This Blog"
+
+#: inc/admin.php:23
+msgid ""
+"Save this blog's content on your computer with Google Gears' help.\r\n"
+"Simply download and install it and click Save. \r\n"
+"You will be able to see the blog when being offline !"
+msgstr ""
+"Sauvegardez le contenu du blog avec l'aide de Google Gears.\r\n"
+"Téléchargez le et cliquez sur Save. \r\n"
+"Vous pourrez ensuite voir le site hors-ligne !"
+
+#: inc/admin.php:26
+msgid "Stock this blog content on your computer for offline navigation."
+msgstr "Sauvegarder le contenu du blog sur votre ordinateur."
+
+#: inc/admin.php:75
+#, php-format
+msgid "To configure the widget please go to the <a href=\"%s\" >settings page</a>."
+msgstr "Pour configurer le widget rendez-vous sur la <a href=\"%s\" >page d'administration</a>."
+
+#: inc/admin.php:143
+msgid "Gears This Blog Configuration"
+msgstr "Gears This Blog Configuration"
+
+#: inc/admin.php:148
+msgid "Title"
+msgstr "Titre"
+
+#: inc/admin.php:148
+msgid "Widget title"
+msgstr "Titre du widget"
+
+#: inc/admin.php:150
+msgid "Message"
+msgstr "Message"
+
+#: inc/admin.php:150
+msgid "Message that will be displayed to the user"
+msgstr "Message affiché aux utilisateurs"
+
+#: inc/admin.php:152
+msgid "Authorization message"
+msgstr "Message d'autorisation"
+
+#: inc/admin.php:152
+msgid "Message that will be displayed for Gears authorization"
+msgstr "Message affiché pour la demande d'autorisation de Google Gears"
+
+#: inc/admin.php:154
+msgid "Icon"
+msgstr "Icône"
+
+#: inc/admin.php:154
+msgid "Authorization message icon"
+msgstr "Icône du message d'autorisation"
+
+#: inc/admin.php:158
+msgid "Auto add CSS files ?"
+msgstr "Ajout auto des fichiers CSS ?"
+
+#: inc/admin.php:159
+msgid "Auto add JS files ?"
+msgstr "Ajout auto des fichiers JS  ?"
+
+#: inc/admin.php:161
+msgid "Auto add images files ?"
+msgstr "Ajout auto des images ?"
+
+#: inc/admin.php:162
+msgid "Add feed URLs ?"
+msgstr "Ajout des urls des flux ?"
+
+#: inc/admin.php:164
+msgid "Add categories ?"
+msgstr "Ajout des catégories ?"
+
+#: inc/admin.php:165
+msgid "Add tags ?"
+msgstr "Ajout des tags ?"
+
+#: inc/admin.php:167
+msgid "Files"
+msgstr "Fichiers"
+
+#: inc/admin.php:167
+msgid "Files or url you want to add to the manifest file / one by line"
+msgstr "Fichiers ou urls que vous souhaitez ajouter au fichier manifest / un par ligne"
+
+#: inc/admin.php:171
+msgid "Number of posts to add "
+msgstr "Nombre de posts à ajouter"
+
+#: inc/admin.php:171
+msgid "latest posts (-1 will add all posts)"
+msgstr "derniers posts (-1 ajoutera tous les posts)"
+
+#: inc/admin.php:175
+msgid "Save changes"
+msgstr "Sauvegarder"
+
+#: inc/admin.php:181
+msgid "Reset settings"
+msgstr "Remise à zéro"
+
+#: inc/admin.php:181
+msgid "/!\\ Will also reset manifest file /!\\"
+msgstr "/!\\ Remet aussi à zéro le fichier manifest /!\\"
+
+#: inc/admin.php:185
+msgid "Manifest Content"
+msgstr "Contenu du manifest"
+
+#: inc/admin.php:185
+msgid "Content of the manifest file used to list files."
+msgstr "Contenu du fichier manifest utilisé pour lister les fichiers"
+
+#: inc/admin.php:188
+msgid "permissions"
+msgstr "permissions"
+
+#: inc/admin.php:189
+msgid "chmod"
+msgstr "chmod"
+
+#: inc/page.php:61
+msgid "<a href=\"http://www.yriase.fr/\">Gears This Blog</a>"
+msgstr "<a href=\"http://www.yriase.fr/\">Gears This Blog</a>"
+
